@@ -1,0 +1,1 @@
+9999999999{"name": "scripts", "version": "2.0", "summary": "Various shell scripts", "platform": "UNKNOWN", "requires_dist": ["stua"], "requires_python": null, "files": [], "_cache_version": "1.0.0"}
